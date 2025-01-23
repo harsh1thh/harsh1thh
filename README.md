@@ -1,4 +1,4 @@
-![👋 Hi, my name is Harshith Bheempalli](https://i.ibb.co/qrpk4RF/github-header-image.jpg)
+![👋 Hi, my name is Harshith Bheempalli](https://i.ibb.co/J21g95Y/github-header-image.png)
 
 <div id="toc">
   <ul align="left" style="list-style: none">
