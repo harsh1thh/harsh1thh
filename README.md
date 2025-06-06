@@ -24,7 +24,7 @@ Experience includes working on numerous IoT and Embedded Systems projects.</h3>*
 
 - 💼 I'm currently working on: **Certified in Cybersecurity by ISC2**
 - 🌱 I'm currently learning: **Networking**
-- 💬 Ask me about: **New Technologies **
+- 💬 Ask me about: **New Technologies**
 
  **<h3 align="left">Skills</h3>**
 
