@@ -18,22 +18,17 @@
  **<h3 align="left">Wanting to land a job in Networking or Cybersecurity.🔌
 Had enough skills for DevOps😮‍💨
 Student of Electronics and Communications engineering, deeply interested in computers and have acquired various computer skills. 
-Experience includes working on numerous IoT and Embedded Systems projects.
-Dream is to fly a Fighter Jet😝✈️</h3>**
+Experience includes working on numerous IoT and Embedded Systems projects.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Certified in Cybersecurity by ISC2**
 - 🌱 I'm currently learning: **Networking**
-- 💬 Ask me about: **Jets and Cars ✈️😮‍💨**
+- 💬 Ask me about: **New Technologies **
 
  **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="32" alt="C" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="32" alt="Shell" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad-plus-plus&logoColor=white" height="32" alt="Notepad++" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="32" alt="Amazon AWS" style="margin-right: 4px"></div>
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Harshithh/30-nites-of-code)  
-  ![@Harshithh #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Harshithh)
 
  **<h3 align="left">GitHub Stats</h3>**
 
